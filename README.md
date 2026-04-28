@@ -1,16 +1,98 @@
-<h1 align="center">Hi 👋, I'm Fabricio</h1>
-<h3 align="center">Beginner in programming I like videogames, books, music currently student</h3>
+<h1 align="center">Hi 👋, I'm Fabricio Amores</h1>
+<h3 align="center">Business Informatics Student | Aspiring Software Developer & Cybersecurity Enthusiast</h3>
 
-- 📫 How to reach me **fabri.amores89@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fabricio.amores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabricio.amores" height="30" width="40" /></a>
+### 👨‍💻 About Me
+
+- 🎓 Final-year student in **Business Informatics**
+- 💻 Passionate about **software development, databases, and cybersecurity**
+- 🧠 Currently learning and improving skills in **full-stack development**
+- 🚀 Focused on building real-world systems and scalable applications
+- 📚 Interests: Technology, Gym, Reading & Continuous Learning
+
+---
+
+### 🌐 Portfolio & Contact
+
+- 🌍 Portfolio: https://mrtropper.github.io/PortafolioFabricioAM/
+- 💼 LinkedIn: https://www.linkedin.com/in/fabricio-amores-monge-a46115273/
+- 📫 Email: **fabri.amores89@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+#### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtropper&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="mrtropper" /></p>
+#### 🗄️ Backend & Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtropper&show_icons=true&theme=synthwave&locale=en" alt="mrtropper" /></p>
+#### ⚙️ Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+
+🔹 **SINEM Management System**  
+System for managing students, professors, and schedules  
+- Role-based access  
+- CRUD operations  
+- Built with Next.js, TypeScript, Prisma & MySQL  
+
+🔹 **Enterprise Database Management System**  
+- 3-tier architecture  
+- Authentication with BCrypt  
+- Inventory & sales system  
+- Oracle DB + C#  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrtropper&show_icons=true&theme=synthwave" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtropper&layout=compact&theme=synthwave" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p>
+<a href="https://instagram.com/fabricio.amores">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/fabricio-amores-monge-a46115273/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+</p>

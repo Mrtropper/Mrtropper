@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabricio Amores</h1>
+<h1 align="center">Hi 👋, I'm Fabricio Amores Monge</h1>
 <h3 align="center">Business Informatics Student | Aspiring Software Developer & Cybersecurity Enthusiast</h3>
 
 ---
@@ -86,13 +86,3 @@ System for managing students, professors, and schedules
 
 ---
 
-### 🤝 Connect with Me
-
-<p>
-<a href="https://instagram.com/fabricio.amores">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/fabricio-amores-monge-a46115273/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-</p>
